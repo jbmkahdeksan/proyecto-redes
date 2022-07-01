@@ -2,6 +2,7 @@
 <html>
 
 <head>
+  <title>PROYECTO-REDES</title>
   <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
